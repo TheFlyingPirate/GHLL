@@ -1,0 +1,6 @@
+E:\Development\GHLL\bin\Debug\GHLL.exe
+E:\Development\GHLL\bin\Debug\GHLL.pdb
+E:\Development\GHLL\obj\Debug\GHLL.csprojAssemblyReference.cache
+E:\Development\GHLL\obj\Debug\GHLL.csproj.CoreCompileInputs.cache
+E:\Development\GHLL\obj\Debug\GHLL.exe
+E:\Development\GHLL\obj\Debug\GHLL.pdb
